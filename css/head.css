@@ -1,0 +1,47 @@
+		#bloque_rojo {
+			background-color: #000;
+			width: 50%;
+			float: left;
+			height: 400px;
+		}
+		#bloque_azul {
+			background-color: #000;
+			width: 50%;
+			float: left;
+			height: 400px;
+			text-align: center;
+		}
+		#foto_portada {
+			float: left;
+			height: 70%;
+			margin:65px 0px 0px 40px;
+		}
+		#logo_tienda {
+			height: 30%;
+			margin:30px 275px;
+		}
+		#Nombre_de_la_compañia {
+			color: #FFFFFF;
+			font-size: xxx-large;
+		}
+		#Sub_titulo {
+			color: #FFFFFF;
+			margin-top: 20px;
+			font-family: sans-serif;
+			font-size: 1.2em;
+		}
+		#boton {
+			background-color: #017982;
+			margin-top: 50px;
+		}	
+		#relleno_menu{
+			background-color: grey;
+			float: left;
+			width: 80%;
+		}
+		#elemento_menu {
+			color: #FFF;
+			background-color: grey;
+			float: left;
+			width: 5%;
+		}
